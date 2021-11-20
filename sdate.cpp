@@ -7,7 +7,6 @@ using namespace std;
 int main(int argc, char **argv)
 {
     auto start = chrono::system_clock::now();
-    // Some computation here
     auto end = chrono::system_clock::now();
 
     chrono::duration<double> elapsed_seconds = end - start;
