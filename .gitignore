@@ -1,6 +1,2 @@
-/scat.exe
-/scp.exe
-/sdate.exe
-/secho.exe
-/sls.exe
-/smkdir.exe
+/build
+*.obj
